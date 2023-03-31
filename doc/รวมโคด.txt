@@ -1,0 +1,207 @@
+   <!-- About Start -->
+    <div class="py-3">
+        <div class="about-deco">
+            <div class="col-lg-12">
+                <div class="about-deco-title">
+                    <h1 class=" wow fadeIn" data-wow-delay="0.1s">แนะนำ สินค้าใหม่ (New Product)</h1>
+                    <div class="title-hr">
+                        <hr>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-2">
+                <div class="col-lg-6 wow mb-2 mt-2 fadeInLeft" data-wow-delay="0.1s">
+                    <div class="about-deco-img">
+                        <div id="slider1" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#slider1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#slider1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#slider1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#slider1" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#slider1" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 wow mb-2 mt-2 fadeInRight" data-wow-delay="0.1s">
+                    <div class="about-detail">
+                        <h4 class="section-title"><i>Billion Deco</i></h4>
+                        <h2 class=" mb-4 text-white">โรงรถ กันสาด</h2>
+                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsa repellat, natus delectus velit earum nisi labore cupiditate, aliquid hic animi quae accusantium quidem eaque, voluptate cumque quas facere explicabo.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="title-hr">
+                <hr>
+            </div>
+            <div class="row g-2">
+                <div class="col-lg-6 order-1 order-lg-0 wow mb-2 mt-2 fadeInLeft" data-wow-delay="0.1s">
+                    <div class="about-detail">
+                        <h4 class="section-title"><i>Billion Deco</i></h4>
+                        <h2 class=" mb-4 text-white">ระแนง / แผงบังตา</h2>
+                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsa repellat, natus delectus velit earum nisi labore cupiditate, aliquid hic animi quae accusantium quidem eaque, voluptate cumque quas facere explicabo.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-0 order-lg-1 wow mb-2 mt-2 fadeInRight" data-wow-delay="0.1s">
+                    <div class="about-deco-img">
+                        <div id="slider2" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#slider2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#slider2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#slider2" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#slider2" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#slider2" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="title-hr">
+                <hr>
+            </div>
+
+            <div class="row g-2">
+                <div class="col-lg-6 wow mb-2 mt-2 fadeInLeft" data-wow-delay="0.1s">
+                    <div class="about-deco-img">
+                        <div id="slider4" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#slider4" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#slider4" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#slider4" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#slider4" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#slider4" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 wow mb-2 mt-2 fadeInRight" data-wow-delay="0.1s">
+                    <div class="about-detail">
+                        <h4 class="section-title"><i>Billion Deco</i></h4>
+                        <h2 class=" mb-4 text-white">แผงบังตาขนาดใหญ่ </h2>
+                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsa repellat, natus delectus velit earum nisi labore cupiditate, aliquid hic animi quae accusantium quidem eaque, voluptate cumque quas facere explicabo.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="title-hr">
+                <hr>
+            </div>
+
+            <div class="row g-2">
+                <div class="col-lg-6 order-1 order-lg-0 wow mb-2 mt-2 fadeInLeft" data-wow-delay="0.1s">
+                    <div class="about-detail">
+                        <h4 class="section-title"><i>Billion Deco</i></h4>
+                        <h2 class=" mb-4 text-white">ต่อเติม / รีโนเวท / ตกแต่ง บ้านและอาคาร</h2>
+                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsa repellat, natus delectus velit earum nisi labore cupiditate, aliquid hic animi quae accusantium quidem eaque, voluptate cumque quas facere explicabo.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-0 order-lg-1  wow mb-2 mt-2 fadeInRight" data-wow-delay="0.1s">
+                    <div class="about-deco-img">
+                        <div id="slider3" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#slider3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#slider3" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#slider3" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="images/demo.png" class="d-block w-100" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#slider3" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#slider3" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- About End -->
+
+
+
+<div class="card-project">
+                <div class="row g-4">
+                    <?php for ($i = 1; $i <= 4; $i++) { ?>
+                        <div class="col-lg-3 col-md-6 mb-3 wow fadeInUp text-center h-100" data-wow-delay="0.1s">
+                            <a href="project_detail3.php">
+                                <div class="card">
+                                    <img src="images/demo.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Card title</h4>
+                                        <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    <?php }  ?>
+                </div>
+                <div class="project-readmore wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="project_detail2.php" class="btn btn-primary btn-readmore">View More</a>
+                </div>
+            </div>
